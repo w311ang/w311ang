@@ -2,6 +2,7 @@
 ```bash
 sudo apt install trash-cli
 alias rm='trash-put'
+echo "alias rm='trash-put'" >> ~/.bashrc
 ```
 安装Linux的回收站，
 
